@@ -78,7 +78,7 @@ const HeroSection: React.FC = () => {
               <div className="relative h-full w-full rounded-t-[11rem] rounded-b-[2.5rem] p-2 bg-white dark:bg-slate-800 shadow-2xl border border-slate-100 dark:border-slate-700">
                 <div className="relative h-full w-full rounded-t-[10.5rem] rounded-b-[2rem] overflow-hidden bg-slate-100">
                   <img 
-                    src="https://i.imgur.com/00JWX0i.png" 
+                    src="https://imgur.com/F1wvb10.png" 
                     alt="Especialista neuropsicopedagoga" 
                     className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-1000"
                   />
