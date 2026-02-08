@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-bold text-slate-900 dark:text-white mb-4 md:mb-6">Atendimento</h4>
             <p className="text-sm text-slate-500 dark:text-slate-400 mb-4">
-              Segunda a Sexta: 08:00 - 18:00<br />
+              Segunda a Sexta: 08:00 - 19:00<br />
               Sábado: 08:00 - 12:00
             </p>
             <div className="text-sm text-slate-500 dark:text-slate-400 mb-4">
