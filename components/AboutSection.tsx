@@ -42,7 +42,7 @@ const AboutSection: React.FC = () => {
 
             <div className="prose prose-base md:prose-lg dark:prose-invert text-slate-600 dark:text-slate-400">
               <p>
-                Olá, sou neuropsicopedagoga certificada, apaixonada por desvendar como cada cérebro aprende. Minha missão é ajudar indivíduos que não se encaixam nos métodos tradicionais a descobrirem seu próprio caminho para o conhecimento.
+                Olá, sou Aline Sena, pedagoga e neuropsicopedagoga clínica, apaixonada por desvendar como cada cérebro aprende. Minha missão é ajudar indivíduos que não se encaixam nos métodos tradicionais a descobrirem seu próprio caminho para o conhecimento.
               </p>
               <p>
                 Acredito no potencial ilimitado de cada ser humano. Minha metodologia integra neurociência, pedagogia e psicologia para derrubar barreiras e construir futuros brilhantes.
@@ -54,26 +54,26 @@ const AboutSection: React.FC = () => {
                 <div className="bg-green-100 dark:bg-green-900/30 p-1.5 rounded-full text-green-600 shrink-0">
                   <span className="material-symbols-outlined text-xl">check</span>
                 </div>
-                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Pós-graduação em Neurociência</span>
+                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Pedagoga</span>
               </div>
               <div className="flex items-center gap-3 bg-white dark:bg-slate-800 p-4 rounded-xl shadow-sm border border-slate-100 dark:border-slate-700">
                 <div className="bg-green-100 dark:bg-green-900/30 p-1.5 rounded-full text-green-600 shrink-0">
                   <span className="material-symbols-outlined text-xl">check</span>
                 </div>
-                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Educação Inclusiva</span>
+                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Pós-graduação em Neuropsicopedagogia</span>
               </div>
               <div className="flex items-center gap-3 bg-white dark:bg-slate-800 p-4 rounded-xl shadow-sm border border-slate-100 dark:border-slate-700">
                 <div className="bg-green-100 dark:bg-green-900/30 p-1.5 rounded-full text-green-600 shrink-0">
                   <span className="material-symbols-outlined text-xl">check</span>
                 </div>
-                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Certificação Internacional</span>
+                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Especialista em Alfabetização</span>
               </div>
-            </div>
-
-            <div className="pt-2 md:pt-4">
-              <button className="text-slate-900 dark:text-white font-bold border-b-2 border-primary pb-0.5 hover:text-primary transition-colors">
-                Ler Biografia Completa
-              </button>
+              <div className="flex items-center gap-3 bg-white dark:bg-slate-800 p-4 rounded-xl shadow-sm border border-slate-100 dark:border-slate-700">
+                <div className="bg-green-100 dark:bg-green-900/30 p-1.5 rounded-full text-green-600 shrink-0">
+                  <span className="material-symbols-outlined text-xl">check</span>
+                </div>
+                <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">Docência</span>
+              </div>
             </div>
           </div>
         </div>
