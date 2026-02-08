@@ -24,7 +24,7 @@ const TestimonialsSection: React.FC = () => {
             <div className="flex items-center gap-4">
               <div className="w-12 h-12 bg-gradient-to-br from-blue-400 to-primary rounded-full flex items-center justify-center font-bold text-white text-lg shrink-0">SJ</div>
               <div>
-                <p className="font-bold text-slate-900 dark:text-white">Sarah Jenkins</p>
+                <p className="font-bold text-slate-900 dark:text-white">Sarah Almeida</p>
                 <p className="text-sm text-slate-500 dark:text-slate-400">Mãe de paciente (8 anos)</p>
               </div>
             </div>
@@ -44,7 +44,7 @@ const TestimonialsSection: React.FC = () => {
             <div className="flex items-center gap-4">
               <div className="w-12 h-12 bg-gradient-to-br from-purple-400 to-pink-400 rounded-full flex items-center justify-center font-bold text-white text-lg shrink-0">MR</div>
               <div>
-                <p className="font-bold text-slate-900 dark:text-white">Michael Ross</p>
+                <p className="font-bold text-slate-900 dark:text-white">Michael Santos</p>
                 <p className="text-sm text-slate-500 dark:text-slate-400">Pai de paciente (12 anos)</p>
               </div>
             </div>
